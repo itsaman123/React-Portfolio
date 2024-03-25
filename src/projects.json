@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Resilience Community",
+      "image": "https://imaman.netlify.app/assets/img/resil.jpeg",
+      "description": "Design and implemented a web app where users can book vehicles like Car, Bikes and eCycles.",
+      "githubLink": "https://github.com/itsaman123/Resilient-Community"
+    },
+    {
+      "id": 2,
+      "title": "Real Time Chat-App",
+      "image": "https://imaman.netlify.app/assets/img/chat.png",
+      "description": "A real-time chat application with secure user authentication and instant messaging.",
+      "githubLink": "https://github.com/itsaman123/ConvoCube-MERN-Chat-App"
+    },
+    {
+      "id": 3,
+      "title": "Rental Service",
+      "image": "https://imaman.netlify.app/assets/img/rental.png",
+      "description": "Design and implemented a web app where users can book vehicles like Car, Bikes and eCycles.",
+      "githubLink": "https://github.com/itsaman123/Rental-Service"
+     },
+    {
+      "id": 4,
+      "title": "Electronics Ecommerce",
+      "image": "https://imaman.netlify.app/assets/img/ecommerce2.jpg",
+      "description": "It is a web app that sell all types of electronics items.",
+      "githubLink": "https://github.com/itsaman123/Rental-Service",
+      "websiteLink": "https://electronic-shop-ef112.web.app/"
+    },
+    {
+      "id": 5,
+      "title": "Portfolio",
+      "image": "https://imaman.netlify.app/assets/img/portfol.png",
+      "description": "It is a website that compiles all my work samples and documents collected in a structured manner covering all projects, skills and Education history.",
+      "githubLink": "https://github.com/itsaman123/Personal-Portfolio",
+      "websiteLink": "https://imaman.netlify.app/"
+    },
+    {
+      "id": 6,
+      "title": "Code Editor",
+      "image": "https://imaman.netlify.app/assets/img/compiler.png",
+      "description": "It is a powerful JavaScript code editor that is used in the frontend development of applications.",
+      "githubLink": "https://github.com/itsaman123/React-Code-editor",
+      "websiteLink": "https://devarena.netlify.app/"
+    }
+  ]
+  
